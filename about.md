@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Jantawan Piyawat, Ph.D.
 
-### More Information
+My husband and I run Thai educational websites, namely:
 
-A place to include any other types of information that you'd like to include about yourself. 
+1. [GotoKnow.org](http://gotoknow.org)
+1. [L3nr.org](http://l3nr.org)
+1. [ClassStart.org](http://classstart.org)
+1. [Wonkdy.org](http://wonkdy.org)
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
