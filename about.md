@@ -4,9 +4,7 @@ title: About
 permalink: /about/
 ---
 
-### Jantawan Piyawat, Ph.D.
-
-My husband and I run Thai educational websites, namely:
+My name is Jantawan. I'm a website developer and a socially engaged educator. My husband and I run Thai educational websites, namely:
 
 1. [GotoKnow.org](http://gotoknow.org)
 1. [L3nr.org](http://l3nr.org)
