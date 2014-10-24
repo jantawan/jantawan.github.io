@@ -4,4 +4,4 @@ title: Hello
 published: true
 ---
 
-My name is Jantawan Piyawat. (จันทวรรณ)
+My first post on my new Jekyll site: [Jantawan.github.io](http://jantawan.github.io)
