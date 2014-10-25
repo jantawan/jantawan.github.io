@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My son and I
+title: Student projects on GitHub and Jekyll
 published: true
 ---
 
